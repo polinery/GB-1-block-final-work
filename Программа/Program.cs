@@ -2,7 +2,7 @@
 using static System.Console;
 Clear();
 
-string[] startArray = {"1234", "1567", "-2", "computer science"};
+string[] startArray = {"hello", "2", "world", ":-)"};
 // ["hello", "2", "world", ":-)"]
 // ["1234", "1567", "-2", "computer science"]
 // ["Russia", "Denmark", "Kazan"]
